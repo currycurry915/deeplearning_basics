@@ -1,5 +1,5 @@
 # Deep Learning Basics
-**🏫 Sogang Univeristy, Department of Electronic Engineering**
+**🏫 Pusan National Univeristy, Department of Electronic Engineering**
 
 - pytorch를 이용한 딥러닝 기초 학습
 
