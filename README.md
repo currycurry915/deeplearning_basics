@@ -23,7 +23,7 @@
 
 ### 실습 2
 
-- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1fnVI_WNYfi0uB62NXX54M4rYIQmRHZGC?usp=sharing)
+- 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제1_MNIST_MLP.ipynb)
 
 - 예제2 (CNN을 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HjSt-91rR3BQjQZZV9X3lPzEnbnflQaO)
 
