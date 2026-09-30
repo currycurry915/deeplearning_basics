@@ -18,7 +18,9 @@
 
 - 예제2 (MLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제2_MLP.ipynb)
 
-- 예제3 (Overfitting) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제3_overfitting.ipynb)
+- 예제3-1 (Overfitting-Dropout) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제3_1_overfitting_Dropout.ipynb)
+
+- 예제3-2 (Overfitting-Augmentation) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제3_2_overfitting_augmentation.ipynb)
 
 
 ### 실습 2
