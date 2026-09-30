@@ -12,7 +12,7 @@
 
 ### 실습 1
 
-- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mWJoCZ2WqirWfwjte57euc0FlASr7p5Y)
+- CoLab 사용방법 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_colab_사용방법.ipynb)
 
 - 예제1 (SLP) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제1_SLP.ipynb)
 
