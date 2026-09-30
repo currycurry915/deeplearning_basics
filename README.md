@@ -31,12 +31,3 @@
 
 - 예제4 (Pretrained model을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제4_pretrained_cifar10.ipynb)
 
-
-### 실습 3
-
-- RNN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joonheeCho/Artificial-Intelligence-Basic-Course/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_Day4.ipynb)
-
-
-### 실습 4
-
-- VAE & GAN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/joonheeCho/Artificial-Intelligence-Basic-Course/blob/main/%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B8%B0%EC%B4%88%EA%B3%BC%EC%A0%95_Day5.ipynb)
