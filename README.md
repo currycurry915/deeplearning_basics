@@ -22,7 +22,7 @@
 
 - 예제3-2 (Overfitting-Augmentation) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습1/실습1_예제3_2_overfitting_augmentation.ipynb)
 
-<!--
+
 ### 실습 2
 
 - 예제1 (MLP를 이용한 글자 인식) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제1_MNIST_MLP.ipynb)
@@ -32,4 +32,4 @@
 - 예제3 (CNN을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제3_cifar10.ipynb)
 
 - 예제4 (Pretrained model을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제4_pretrained_cifar10.ipynb)
--->
+
