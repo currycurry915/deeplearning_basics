@@ -34,3 +34,4 @@
 - 예제4 (Pretrained model을 이용한 이미지 분류) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제4_pretrained_cifar10.ipynb)
 
 - 예제5 (반려동물 데이터셋 구축) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제5_반려동물_데이터셋_구축.ipynb)
+  - [📁 RAW 데이터셋 다운로드 (Google Drive)](https://drive.google.com/file/d/1PkfXLPAYHgpOGaz64rEoEMaI5Eodwk2u/view?usp=sharing)
