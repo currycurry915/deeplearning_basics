@@ -35,3 +35,9 @@
 
 - 예제5 (반려동물 데이터셋 구축) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제5_반려동물_데이터셋_구축.ipynb)
   - [📁 RAW 데이터셋 다운로드 (Google Drive)](https://drive.google.com/file/d/1PkfXLPAYHgpOGaz64rEoEMaI5Eodwk2u/view?usp=sharing)
+ 
+
+### 실습 2
+
+- 예제1 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제1_MNIST_MLP.ipynb)
+
