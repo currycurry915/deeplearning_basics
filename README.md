@@ -39,5 +39,5 @@
 
 ### 실습 2
 
-- 예제1 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습2/실습2_예제1_MNIST_MLP.ipynb)
+- 예제1 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/RNN.ipynb)
 
