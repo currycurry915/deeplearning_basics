@@ -39,5 +39,14 @@
 
 ### 실습 2
 
-- 예제1 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/RNN.ipynb)
+- 예제1 (Pytorch기초) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/PyTorch.ipynb)
 
+- 예제2 (RNN) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/LSTM.ipynb)
+
+- 예제3 (GRU) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/GRU.ipynb)
+ 
+- 예제4 (Detectron2_Tutorial) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/Detectron2_Tutorial.ipynb)
+
+- 예제5 (YOLO26_Tutorial) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/YOLO26_Tutorial.ipynb)
+
+- 예제6 (Segment_Anything) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/Segment_Anything.ipynb)
