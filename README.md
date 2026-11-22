@@ -6,9 +6,13 @@
 ## IDEC 인공지능 경량화 실습
 
 - **I. CIFAR-10 ResNet-18 학습 및 평가** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/01_ResNet18_CIFAR10.ipynb)
+
 - **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/02_Depthwise_Separable_ResNet18.ipynb)
+  
 - **III. Knowledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_Response_Based_Knowledge_Distillation.ipynb)
+  
 - **IV. Quantization** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/04_PTQ_Quantization.ipynb)
+  
 - **V. Pruning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/05_ToMe_Token_Pruning.ipynb)
 
 예제 V는 원본 ToMe Colab 코드를 사용합니다. [원본 노트북](https://colab.research.google.com/drive/14-Z3eynWErHR_dgCXu2dUlDvsYWm0rR6?authuser=1)
