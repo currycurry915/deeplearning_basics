@@ -5,8 +5,6 @@
 
 ## 인공지능 경량화 실습
 
-### 수강생용
-
 - **I. CIFAR-10 ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/01_ResNet18_CIFAR10.ipynb)
 
 - **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/02_Depthwise_Separable_ResNet18.ipynb)
