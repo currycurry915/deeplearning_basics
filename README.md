@@ -3,7 +3,20 @@
 
 - pytorch를 이용한 딥러닝 기초 학습
 
-## CoLab files
+## IDEC 인공지능 경량화 실습
+
+- **I. CIFAR-10 ResNet-18 학습 및 평가** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/01_ResNet18_CIFAR10.ipynb)
+- **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/02_Depthwise_Separable_ResNet18.ipynb)
+- **III. Response-Based Knowledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_Response_Based_Knowledge_Distillation.ipynb)
+- **IV. Post-Training Quantization** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/04_PTQ_Quantization.ipynb)
+- **V. ToMe Token Pruning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/05_ToMe_Token_Pruning.ipynb)
+
+예제 V는 원본 ToMe Colab 코드를 사용합니다. [원본 노트북](https://colab.research.google.com/drive/14-Z3eynWErHR_dgCXu2dUlDvsYWm0rR6?authuser=1)
+
+## 기존 딥러닝 기초 실습
+
+<details>
+<summary>기존 실습 0~3 펼치기</summary>
 
 ### 실습 0
 
@@ -50,3 +63,5 @@
 - 예제5 (YOLO26_Tutorial) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/YOLO26_Tutorial.ipynb)
 
 - 예제6 (Segment_Anything) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/실습3/Segment_Anything.ipynb)
+
+</details>
