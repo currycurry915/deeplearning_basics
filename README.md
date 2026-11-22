@@ -1,4 +1,4 @@
-<img width="374" height="88" alt="image" src="https://github.com/user-attachments/assets/cf316b87-c218-4608-950d-6332556d6ba0" /><img width="422" height="62" alt="image" src="https://github.com/user-attachments/assets/bd9bbc60-d179-4878-ba76-fac563a2b94d" /># Deep Learning Basics
+# Deep Learning Basics
 **🏫 Pusan National Univeristy, Department of Electronic Engineering**
 
 - pytorch를 이용한 딥러닝 기초 학습
