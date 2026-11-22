@@ -5,17 +5,28 @@
 
 ## IDEC 인공지능 경량화 실습
 
-- **I. CIFAR-10 ResNet-18 학습 및 평가** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/01_ResNet18_CIFAR10.ipynb)
+### 수강생용
 
+- **I. CIFAR-10 ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/01_ResNet18_CIFAR10.ipynb)
+- **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/02_Depthwise_Separable_ResNet18.ipynb)
+- **III-A. Temperature KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03A_KD_Temperature.ipynb)
+- **III-B. Feature-Based KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03B_KD_Feature_Based.ipynb)
+- **IV. PTQ** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/04_PTQ_Quantization.ipynb)
+- **V. ToMe** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/05_ToMe_Token_Pruning.ipynb)
+
+<details>
+<summary>교수님용 실습 코드 펼치기</summary>
+
+- **I. CIFAR-10 ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/01_ResNet18_CIFAR10.ipynb)
 - **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/02_Depthwise_Separable_ResNet18.ipynb)
-  
-- **III. Knowledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_Response_Based_Knowledge_Distillation.ipynb)
-  
-- **IV. Quantization** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/04_PTQ_Quantization.ipynb)
-  
-- **V. Pruning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/05_ToMe_Token_Pruning.ipynb)
+- **III-A. Temperature KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_Response_Based_Knowledge_Distillation.ipynb)
+- **III-B. Feature-Based KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/02_Feature_Based_KD.ipynb)
+- **IV. PTQ** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/04_PTQ_Quantization.ipynb)
+- **V. ToMe** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/05_ToMe_Token_Pruning.ipynb)
 
-예제 V는 원본 ToMe Colab 코드를 사용합니다. [원본 노트북](https://colab.research.google.com/drive/14-Z3eynWErHR_dgCXu2dUlDvsYWm0rR6?authuser=1)
+[기존 ToMe Colab 원본](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/05_ToMe_Token_Pruning.ipynb)
+
+</details>
 
 ## 기존 딥러닝 기초 실습
 
