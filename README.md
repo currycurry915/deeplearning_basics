@@ -5,26 +5,26 @@
 
 ## 인공지능 경량화 실습
 
-- **I. CIFAR-10 ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/01_ResNet18_CIFAR10.ipynb)
+- **I. CIFAR-10 ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/01_ResNet18_CIFAR10.ipynb)
 
-- **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/02_Depthwise_Separable_ResNet18.ipynb)
+- **II. Depthwise Separable ResNet-18** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/02_Depthwise_Separable_ResNet18.ipynb)
   
-- **III-A. Temperature Knoledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03A_KD_Temperature.ipynb)
+- **III-A. Temperature Knoledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03A_KD_Temperature.ipynb)
   
-- **III-B. Feature-Based Knoledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03B_KD_Feature_Based.ipynb)
+- **III-B. Feature-Based Knoledge Distillation** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/03B_KD_Feature_Based.ipynb)
   
-- **IV. Post-training quantization (PTQ)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/04_PTQ_Quantization.ipynb)
+- **IV. Post-training quantization (PTQ)** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/04_PTQ_Quantization.ipynb)
   
-- **V. Token Pruning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/05_ToMe_Token_Pruning.ipynb)
+- **V. Token Pruning** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5_%EC%88%98%EA%B0%95%EC%83%9D%EC%9A%A9/05_ToMe_Token_Pruning.ipynb)
 
 <details>
 <summary>KD 확장 실습 펼치기 · 선택 실습</summary>
 
-- **Response-Based KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/01_Response_Based_KD.ipynb)
-- **Feature-Based KD · 확장 예제** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/02_Feature_Based_KD.ipynb)
-- **Offline KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/03_Offline_KD.ipynb)
-- **Online KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/04_Online_KD.ipynb)
-- **Self KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/IDEC_Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/05_Self_KD.ipynb)
+- **Response-Based KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/01_Response_Based_KD.ipynb)
+- **Feature-Based KD · 확장 예제** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/02_Feature_Based_KD.ipynb)
+- **Offline KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/03_Offline_KD.ipynb)
+- **Online KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/04_Online_KD.ipynb)
+- **Self KD** [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/currycurry915/deeplearning_basics/blob/main/Colab_%EC%8B%A4%EC%8A%B5/03_KD_%EC%8B%A4%EC%8A%B5/05_Self_KD.ipynb)
 
 </details>
 
